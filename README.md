@@ -7,4 +7,4 @@
 <p>Please enjoy, if there are any problems, let me know. While its a small setup, reailstically there are always
     problems somewhere.</p>
 <br>
-<h>By Brendan Prednis</h>
+<h>- Brendan Prednis</h>
